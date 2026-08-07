@@ -8,6 +8,7 @@ This repository contains my preparation for Junior Software Engineer interviews.
 ./
 ├── screening/
 │   └── motivation.md
+│
 ├── behavioural/
 │   ├── teamwork.md
 │   ├── communication.md
@@ -20,21 +21,27 @@ This repository contains my preparation for Junior Software Engineer interviews.
 │   ├── conflict.md
 │   ├── leadership.md
 │   └── feedback.md
+│
 ├── projects/
 │   ├── we_magazine/
 │   ├── puzzleforge/
 │   ├── santas_helper/
 │   └── yogalane/
-├── javascript/
-├── typescript/
-├── react/
-├── html_css/
-├── sql/
-├── git/
-├── testing/
-├── system_design/
-├── problem_solving/
+│
+├── technical/
+│   ├── javascript/
+│   ├── typescript/
+│   ├── react/
+│   ├── html_css/
+│   ├── sql/
+│   ├── git/
+│   ├── testing/
+│   ├── debugging/
+│   ├── system_design/
+│   └── coding_challenges/
+│
 ├── questions_to_ask_employer/
+│
 └── README.md
 ```
 
@@ -45,3 +52,10 @@ This section will have a Markdown file for each common question and a personalis
 
 This section will have a Markdown file per type of behavioural question.
 Each file will have a selection of common questions and one or two STAR-style answers that can be adapted for all.
+
+## Projects Section
+The answer style for this section is to be confirmed.
+
+## Technical Section
+The answer style for this section is to be confirmed.
+
